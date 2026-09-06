@@ -1,0 +1,150 @@
+[
+    {
+        "application": "Anydesk",
+        "ja4": "t12d550600_168bb377f8c8_a1e935682795",
+        "ja4s": "t120300_009f_cef8820c8f19"
+    },
+    {
+        "application": "Anydesk",
+        "ja4": "t12i550500_168bb377f8c8_a1e935682795",
+        "ja4s": "t120300_009f_cef8820c8f19"
+    },
+    {
+        "application": "Anydesk",
+        "ja4": "t12i550500_168bb377f8c8_a1e935682795",
+        "ja4s": "t120300_009f_cef8820c8f19"
+    },
+    {
+        "application": "Cobalt Strike beacon",
+        "ja4h": "ge11cn060000_4e59edc1297a_4da5efaf0cb"
+    },
+    {
+        "application": "Cobalt Strike Cat C2",
+        "ja4x": "2166164053c1_2166164053c1_30d204a01551"
+    },
+    {
+        "application": "Cobalt Strike v4.9.1 beacon",
+        "ja4": "t12i190700_d83cc789557e_16bbda4055b2",
+        "ja4s": "t120300_c030_52d195ce1d92"
+    },
+    {
+        "application": "Cobalt Strike v4.9.1 beacon",
+        "ja4": "t12i210700_76e208dd3e22_16bbda4055b2",
+        "ja4s": "t120300_c030_52d195ce1d92"
+    },
+    {
+        "application": "curl",
+        "ja4h": "ge11nn030000_fe444ad14866_000000000000_000000000000"
+    },
+    {
+        "application": "Darkgate Malware",
+        "ja4h": "po10nn060000_cdb958d032b0"
+    },
+    {
+        "application": "IcedID ",
+        "ja4": "t13d201100_2b729b4bf6f3_9e7b989ebec8",
+        "ja4s": "t120300_c030_5e2616a54c73"
+    },
+    {
+        "application": "IcedID Dropper",
+        "ja4h": "ge11cn020000_9ed1ff1f7b03_cd8dafe26982"
+    },
+    {
+        "application": "Lumma Malware",
+        "ja4h": "po11nn050000_d253db9d024b"
+    },
+    {
+        "application": "masscan",
+        "ja4t": "1024_00_00_00"
+    },
+    {
+        "application": "Modified Nmap",
+        "ja4t": "1025_2_1460_00"
+    },
+    {
+        "application": "Modified ZMap",
+        "ja4t": "512_00_00_00"
+    },
+    {
+        "application": "Modified ZMap",
+        "ja4t": "65535_2_1460_00"
+    },
+    {
+        "application": "ngrok 3.8.0",
+        "ja4h": "ge11nn17enus_d488a5d46f42_000000000000_000000000000"
+    },
+    {
+        "application": "ngrok 3.8.0",
+        "ja4h": "ge11nr15enus_a978addab902_000000000000_000000000000"
+    },
+    {
+        "application": "ngrok 3.8.0",
+        "ja4": "t13d191000_9dc949149365_e7c285222651"
+    },
+    {
+        "application": "ngrok 3.8.0",
+        "ja4": "t13i190900_9dc949149365_e7c285222651"
+    },
+    {
+        "application": "Nmap",
+        "ja4t": "1024_2_1460_00"
+    },
+    {
+        "application": "Pikabot Malware",
+        "ja4x": "1a59268f55e5_1a59268f55e5_795797892f9c"
+    },
+    {
+        "application": "Qakbot Malware",
+        "ja4x": "2bab15409345_af684594efb4_000000000000"
+    },
+    {
+        "application": "Sliver Agent",
+        "ja4": "t13d190900_9dc949149365_97f8aa674fd9",
+        "ja4s": "t130200_1301_a56c5b993250"
+    },
+    {
+        "application": "Sliver Agent",
+        "ja4": "t13d190900_9dc949149365_97f8aa674fd9",
+        "ja4s": "t130200_1301_a56c5b993250"
+    },
+    {
+        "application": "Sliver/Havoc C2 Server",
+        "ja4x": "000000000000_4f24da86fad6_bf0f0589fc03"
+    },
+    {
+        "application": "Sliver/Havoc C2 Server",
+        "ja4x": "000000000000_7c32fa18c13e_bf0f0589fc03"
+    },
+    {
+        "application": "SoftEther VPN",
+        "ja4x": "d55f458d5a6c_d55f458d5a6c_0fc8c171b6ae"
+    },
+    {
+        "application": "SoftEther VPN",
+        "ja4": "t13d880900_fcb5b95cb75a_b0d3b4ac2a14"
+    },
+    {
+        "application": "Telegram",
+        "ja4h": "po11nn07enus_b9cd978c9817_000000000000_000000000000"
+    },
+    {
+        "application": "Zmap",
+        "ja4t": "65535_00_00_00"
+    },
+    {
+        "library": "Golang",
+        "ja4": "t13d190900_9dc949149365_97f8aa674fd9"
+    },
+    {
+        "library": "Python",
+        "ja4": "t13i181000_85036bcba153_d41ae481755e"
+    },
+    {
+        "application": "Anydesk",
+        "ja4": "t12d550600_168bb377f8c8_a1e935682795"
+    },
+    {
+        "application": "Anydesk",
+        "ja4": "t12i550500_168bb377f8c8_a1e935682795"
+    }
+]
